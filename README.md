@@ -11,7 +11,7 @@ A real-time voice transcription app built with Node.js, Express, and Deepgram AP
 ## 🛠 Setup Instructions
 ### get your api key 
 - Create a .env file:
--DEEPGRAM_API_KEY=your_deepgram_api_key_here
+- DEEPGRAM_API_KEY=your_deepgram_api_key_here
 ### Visit http://localhost:10000 after completing alla the steps 
 
 ### 1. Clone the Repo
